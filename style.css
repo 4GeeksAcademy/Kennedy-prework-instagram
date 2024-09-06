@@ -1,0 +1,19 @@
+.body {
+    background: lightgray;
+}
+.wrapper {
+    width: 100%;
+    background: lightgray;
+}
+.flex-container {
+    display:flex;
+    background: lightgrey;
+}
+.h1 {
+    background: white
+}
+.picture {
+    height: 100px;
+    width: 120px;
+}
+.picture-one
